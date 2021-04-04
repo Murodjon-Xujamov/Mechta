@@ -1,0 +1,20 @@
+@font-face {
+    font-family: "poppens";
+    src: url(./fonts/Poppins-light.ttf) !important;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "poppens";
+    src: url(./fonts/Poppins-Italic.ttf) !important;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "poppens";
+    src: url(./fonts/Poppins-Regular.ttf) !important;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "poppens";
+    src: url(./fonts/Poppins-Bold.ttf) !important;
+    font-weight: 700;
+}
